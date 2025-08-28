@@ -1,10 +1,16 @@
 # AI-BASED-RECOMMENDATION-SYSTEM
 COMPANY: CODTECH IT SOLUTIONS
+
 NAME: SHWETA RAMA MARATHI
+
 INTERN ID: CT04DY1153
+
 DOMAIN: JAVA PROGRAMMING
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTOSH
+
 DESCRIPTION:
 
 Tools, Platform, and Applications Used for Task 4 (Movie Recommendation System)
@@ -31,3 +37,4 @@ Data Processing Prototype: Can be extended to handle larger datasets, add person
 Practical Utility: Useful for students and developers who want to understand how ratings data can be transformed into meaningful insights.
 
 OUTPUT:
+<img width="818" height="197" alt="Image" src="https://github.com/user-attachments/assets/ebeb5133-4b55-4504-92ec-6f08f69416c0" />
